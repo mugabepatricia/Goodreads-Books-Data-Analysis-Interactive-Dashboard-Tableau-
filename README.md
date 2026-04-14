@@ -61,6 +61,7 @@ Users can filter by title and instantly see all related metadata change across t
 ## Project Files
 - <a href="https://public.tableau.com/app/profile/patricia.mbabazi.mugabe/viz/GoodReadsTableauViz/Dashboard1">Tableau Dashboard</a>
 - <a href="https://github.com/mugabepatricia/Goodreads-Books-Data-Analysis-Interactive-Dashboard-Tableau-/blob/main/books.csv">GoodReads Data</a>
+- <a href="https://github.com/mugabepatricia/Goodreads-Books-Data-Analysis-Interactive-Dashboard-Tableau-/blob/main/GoodReads%20Viz.png">GoodReads Visual</a>
 ## What This Project Demonstrates
 	•	Data storytelling
 	•	Dashboard design
