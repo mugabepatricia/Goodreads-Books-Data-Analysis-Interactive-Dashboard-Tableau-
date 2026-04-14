@@ -60,7 +60,6 @@ Users can filter by title and instantly see all related metadata change across t
 	•	Integrate live data sources for real-time dashboards
 ## Project Files
 - <a href="https://public.tableau.com/app/profile/patricia.mbabazi.mugabe/viz/GoodReadsTableauViz/Dashboard1">Tableau Dashboard</a>
-	•	goodreads_dataset.xlsx → Cleaned dataset
 ## What This Project Demonstrates
 	•	Data storytelling
 	•	Dashboard design
